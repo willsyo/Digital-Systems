@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dN:/Digital Systems/Lab5
+Efifo
+Z0 w1510694991
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dN:/Digital Systems/Lab6
+Z5 8N:/Digital Systems/Lab6/FIFO.vhd
+Z6 FN:/Digital Systems/Lab6/FIFO.vhd
+l0
+L5
+VPO4Acj[5J6?B7SF=Uh;B?1
+!s100 02Q:gXD]]W7LW;YM[KneF1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1510695028
+!i10b 1
+Z9 !s108 1510695028.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:/Digital Systems/Lab6/FIFO.vhd|
+Z11 !s107 N:/Digital Systems/Lab6/FIFO.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 4 fifo 0 22 PO4Acj[5J6?B7SF=Uh;B?1
+l17
+L14
+V87bdE1ERKinodnJ`diQE63
+!s100 XFSz32UI6<8J`VHIYXIMk1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Efifo_tb
+Z14 w1510695009
+R2
+R3
+R4
+Z15 8N:/Digital Systems/Lab6/FIFO_tb.vhd
+Z16 FN:/Digital Systems/Lab6/FIFO_tb.vhd
+l0
+L5
+V;GmKR]>P;BT`G69P:GMh53
+!s100 @Z9XCJfF8lHS=e[3Jh:cQ1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:/Digital Systems/Lab6/FIFO_tb.vhd|
+Z18 !s107 N:/Digital Systems/Lab6/FIFO_tb.vhd|
+!i113 1
+R12
+R13
+Abeh
+R2
+R3
+Z19 DEx4 work 7 fifo_tb 0 22 ;GmKR]>P;BT`G69P:GMh53
+l37
+L9
+V>zo`^UTRGSATRZP^S6?2O0
+!s100 hTO<G8=LS<cDiQ7aeUENC2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13

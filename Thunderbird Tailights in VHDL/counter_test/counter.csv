@@ -1,0 +1,6 @@
+# Pin Assignments
+
+To, Direction, Location
+Clk, input, PIN_Y2
+Rst, input, PIN_R24
+Clk_out, output, PIN_E21

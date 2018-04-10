@@ -1,0 +1,215 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dN:/Digital Systems/Lab2
+Ecounter
+Z0 w1507331173
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dN:/Digital Systems/Lab3
+Z5 8N:\Digital Systems\Lab3\counter.vhd
+Z6 FN:\Digital Systems\Lab3\counter.vhd
+l0
+L5
+Vg4D]87;]@0om81dIjclTE1
+!s100 @o4_l:0^j]h=9]b<nl6Vl3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1507332006
+!i10b 1
+Z9 !s108 1507332006.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:\Digital Systems\Lab3\counter.vhd|
+Z11 !s107 N:\Digital Systems\Lab3\counter.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 g4D]87;]@0om81dIjclTE1
+l17
+L14
+VCcPaB<NEJD5Fdlo<MA@MG1
+!s100 3_zMoe<^BCkPLiz?3L;nn2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecounter_tb
+Z14 w1507329963
+R1
+R2
+R3
+R4
+Z15 8N:\Digital Systems\Lab3\counter_tb.vhd
+Z16 FN:\Digital Systems\Lab3\counter_tb.vhd
+l0
+L7
+Vl`0<XoV:>Vg5AV2g0THml1
+!s100 A36>_^VmYVf_?fBZGLEjP1
+R7
+32
+Z17 !s110 1507329857
+!i10b 1
+Z18 !s108 1507329857.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:\Digital Systems\Lab3\counter_tb.vhd|
+Z20 !s107 N:\Digital Systems\Lab3\counter_tb.vhd|
+!i113 1
+R12
+R13
+Abeh
+R1
+R2
+R3
+DEx4 work 10 counter_tb 0 22 l`0<XoV:>Vg5AV2g0THml1
+l26
+L10
+VnP_IoLCHNW8[XGIHH73hX3
+!s100 I?hh6Wn2bPc1326njP13M0
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Esr_latch
+Z21 w1507232670
+R1
+R2
+R3
+R4
+Z22 8N:\Digital Systems\Lab3\sr_latch.vhd
+Z23 FN:\Digital Systems\Lab3\sr_latch.vhd
+l0
+L5
+VL3g:TJOCT9nMcLWOe=4la2
+!s100 LE4fZTal4Pj59P3od;C541
+R7
+32
+Z24 !s110 1507232644
+!i10b 1
+Z25 !s108 1507232644.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:\Digital Systems\Lab3\sr_latch.vhd|
+Z27 !s107 N:\Digital Systems\Lab3\sr_latch.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 8 sr_latch 0 22 L3g:TJOCT9nMcLWOe=4la2
+l14
+L12
+V_Z[TRm4o?I[^OTLd3H@d83
+!s100 Qo6f5RVhV6dgMQHLVmT2Z2
+R7
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R12
+R13
+Etaillight
+Z28 w1507504861
+R1
+R2
+R3
+R4
+Z29 8N:\Digital Systems\Lab3\taillight.vhd
+Z30 FN:\Digital Systems\Lab3\taillight.vhd
+l0
+L5
+Vbo86R0[4RXR0aI@0YPNz`2
+!s100 c`YJ3aJHHoW:HDgj2<[Yc0
+R7
+32
+Z31 !s110 1507505697
+!i10b 1
+Z32 !s108 1507505696.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:\Digital Systems\Lab3\taillight.vhd|
+Z34 !s107 N:\Digital Systems\Lab3\taillight.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 9 taillight 0 22 bo86R0[4RXR0aI@0YPNz`2
+l21
+L13
+VRQP7hfb0UoPnYAcN38c[H0
+!s100 R@^VR`ia]CDc?Nn`gN_?:3
+R7
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R12
+R13
+Etoplevel
+Z35 w1507507242
+R1
+R2
+R3
+R4
+Z36 8N:/Digital Systems/Lab3/toplevel.vhd
+Z37 FN:/Digital Systems/Lab3/toplevel.vhd
+l0
+L5
+VGJ:ThOHje8iK0T>BC`iC^0
+!s100 C<gK9AH=^0ZK6jo?dhRa10
+R7
+32
+Z38 !s110 1507507139
+!i10b 1
+Z39 !s108 1507507139.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:/Digital Systems/Lab3/toplevel.vhd|
+Z41 !s107 N:/Digital Systems/Lab3/toplevel.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z42 DEx4 work 8 toplevel 0 22 GJ:ThOHje8iK0T>BC`iC^0
+l31
+L10
+V@=0f7Z4:<ah?R[H9Az^j92
+!s100 E]X4l2_6NWQ^ciIdT9JR81
+R7
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R12
+R13

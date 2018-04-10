@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DOUT",
+					"strict" : false
+				},
+				{
+					"name" : "EMPTY",
+					"strict" : false
+				},
+				{
+					"name" : "FULL",
+					"strict" : false
+				},
+				{
+					"name" : "READ_in",
+					"strict" : false
+				},
+				{
+					"name" : "WRITE_in",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "RESET",
+					"strict" : false
+				},
+				{
+					"name" : "DIN",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,133 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dN:/Digital Systems/Lab3
+Ebutton_counter
+Z0 w1508189506
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dN:/Digital Systems/Lab4
+Z5 8N:/Digital Systems/Lab4/button_counter.vhd
+Z6 FN:/Digital Systems/Lab4/button_counter.vhd
+l0
+L5
+V;KKm?Y3WPeQ8GWMIQY@MT3
+!s100 WF6EVNWP`eWo91`YL9BDb2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1508189705
+!i10b 1
+Z9 !s108 1508189704.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:/Digital Systems/Lab4/button_counter.vhd|
+Z11 !s107 N:/Digital Systems/Lab4/button_counter.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 14 button_counter 0 22 ;KKm?Y3WPeQ8GWMIQY@MT3
+l24
+L12
+V52HFfk5zM6h;]l14<l9@A1
+!s100 mI?`6M?aWgmBPZcVRa<i61
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecounter
+Z15 w1507589294
+R1
+R2
+R3
+R4
+Z16 8N:\Digital Systems\Lab4\counter.vhd
+Z17 FN:\Digital Systems\Lab4\counter.vhd
+l0
+L5
+V6<i38O:>gBh[BF4JB9lf[2
+!s100 03=Z5c?nRFL7W[GVAU:Ll0
+R7
+32
+Z18 !s110 1508105575
+!i10b 1
+Z19 !s108 1508105575.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:\Digital Systems\Lab4\counter.vhd|
+Z21 !s107 N:\Digital Systems\Lab4\counter.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 6<i38O:>gBh[BF4JB9lf[2
+l16
+L13
+V?KD?_>JWV6E9E2k03?@MX1
+!s100 bLTiLj1@CXC[;oPLgeN3A3
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Etoplevel
+Z22 w1508107478
+R1
+R2
+R3
+R4
+Z23 8N:/Digital Systems/Lab4/toplevel.vhd
+Z24 FN:/Digital Systems/Lab4/toplevel.vhd
+l0
+L5
+VkAjFA:cTVAl5LBOi@7Q6]0
+!s100 MWdK7bm3_HoEi0k9B19VB1
+R7
+32
+Z25 !s110 1508108385
+!i10b 1
+Z26 !s108 1508108385.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|N:/Digital Systems/Lab4/toplevel.vhd|
+Z28 !s107 N:/Digital Systems/Lab4/toplevel.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 8 toplevel 0 22 kAjFA:cTVAl5LBOi@7Q6]0
+l32
+L10
+Vd8eCIf2>gWXaj=g=KBYWX1
+!s100 JWalKnFAEGfKD[2U699gn1
+R7
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R12
+R13

@@ -1,0 +1,61 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "RS",
+					"strict" : false
+				},
+				{
+					"name" : "DB6",
+					"strict" : false
+				},
+				{
+					"name" : "DB5",
+					"strict" : false
+				},
+				{
+					"name" : "DB4",
+					"strict" : false
+				},
+				{
+					"name" : "DB3",
+					"strict" : false
+				},
+				{
+					"name" : "DB2",
+					"strict" : false
+				},
+				{
+					"name" : "DB1",
+					"strict" : false
+				},
+				{
+					"name" : "DB0",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_ON",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_EN",
+					"strict" : false
+				},
+				{
+					"name" : "debug_LED",
+					"strict" : false
+				},
+				{
+					"name" : "Rst",
+					"strict" : false
+				},
+				{
+					"name" : "Clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

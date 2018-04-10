@@ -1,0 +1,18 @@
+# Pin Assignments
+
+To, Direction, Location
+Clk, input, PIN_Y2
+Rst, input, PIN_R24
+RS, output, PIN_M2
+RW, output, PIN_M1
+DB7, output, PIN_M5
+DB6, output, PIN_M3
+DB5, output, PIN_K2
+DB4, output, PIN_K1
+DB3, output, PIN_K7
+DB2, output, PIN_L2
+DB1, output, PIN_L1
+DB0, output, PIN_L3
+LCD_ON, output, PIN_L5
+LCD_EN, output, PIN_L4
+debug_LED, output, PIN_E21

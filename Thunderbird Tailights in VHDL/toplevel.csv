@@ -1,0 +1,14 @@
+# Pin Assignments
+
+To, Direction, Location
+Clk, input, PIN_Y2
+rst, input, PIN_R24
+hazard, input, PIN_AB28
+left_in, input, PIN_AC27
+right_in, input, PIN_AC28
+LA_o, output, PIN_G20
+LB_o, output, PIN_G22
+LC_o, output, PIN_G21
+RA_o, output, PIN_E25
+RB_o, output, PIN_E22
+RC_o, output, PIN_E21
